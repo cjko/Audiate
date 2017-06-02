@@ -1,0 +1,3724 @@
+["tracks": {
+    href = "https://api.spotify.com/v1/search?query=Dillon+francis&type=track&market=US&offset=0&limit=20";
+    items =     (
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    },
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                        };
+                        href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                        id = 02kJSzxNuaWGqwubyUba0Z;
+                        name = "G-Eazy";
+                        type = artist;
+                        uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/6JyzqXybffD4HoZchWfa5O";
+                };
+                href = "https://api.spotify.com/v1/albums/6JyzqXybffD4HoZchWfa5O";
+                id = 6JyzqXybffD4HoZchWfa5O;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/16ab3a76938e60e57b0409387e5470db10a2e489";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/5fdfcd0f11e6218206fea01355198dbb271cb2f3";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/564893cecd04b2b327db33cb667fb0eab013c730";
+                        width = 64;
+                    }
+                );
+                name = "Say Less";
+                type = album;
+                uri = "spotify:album:6JyzqXybffD4HoZchWfa5O";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                    id = 02kJSzxNuaWGqwubyUba0Z;
+                    name = "G-Eazy";
+                    type = artist;
+                    uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 204699;
+            explicit = 1;
+            "external_ids" =             {
+                isrc = QMUY41700033;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/7l0u38sWDqqk6TySNOZtO3";
+            };
+            href = "https://api.spotify.com/v1/tracks/7l0u38sWDqqk6TySNOZtO3";
+            id = 7l0u38sWDqqk6TySNOZtO3;
+            name = "Say Less";
+            popularity = 71;
+            "preview_url" = "https://p.scdn.co/mp3-preview/abe5e2920752e2ef24d31c6d1e29e57f772ce7a6?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:7l0u38sWDqqk6TySNOZtO3";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed";
+                };
+                href = "https://api.spotify.com/v1/albums/5yscEifoZw3M3abIVCr8ed";
+                id = 5yscEifoZw3M3abIVCr8ed;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/e8a7307f697dbb64318f6b17dbd0f6889da46344";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/795ce52a64136e593cd962ca95ca188d770aab2c";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/083aa73d3ddc515ed4aac2745ec88856cfbd3d51";
+                        width = 64;
+                    }
+                );
+                name = "This Mixtape is Fire.";
+                type = album;
+                uri = "spotify:album:5yscEifoZw3M3abIVCr8ed";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4";
+                    };
+                    href = "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4";
+                    id = 23fqKkggKUBHNkbKtXEls4;
+                    name = Kygo;
+                    type = artist;
+                    uri = "spotify:artist:23fqKkggKUBHNkbKtXEls4";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS";
+                    };
+                    href = "https://api.spotify.com/v1/artists/0lzV2CiahHRiGd6qpADtPS";
+                    id = 0lzV2CiahHRiGd6qpADtPS;
+                    name = "James Hersey";
+                    type = artist;
+                    uri = "spotify:artist:0lzV2CiahHRiGd6qpADtPS";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 178333;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11505217;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9";
+            };
+            href = "https://api.spotify.com/v1/tracks/6m3ZWIXhjoV76syT1j2oE9";
+            id = 6m3ZWIXhjoV76syT1j2oE9;
+            name = "Coming Over (feat. James Hersey)";
+            popularity = 70;
+            "preview_url" = "https://p.scdn.co/mp3-preview/db5156de3b28e368070ce02f2933db98f9b0d635?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 5;
+            type = track;
+            uri = "spotify:track:6m3ZWIXhjoV76syT1j2oE9";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/3uRfl5ZsFJpuYj2z1YjXKC";
+                };
+                href = "https://api.spotify.com/v1/albums/3uRfl5ZsFJpuYj2z1YjXKC";
+                id = 3uRfl5ZsFJpuYj2z1YjXKC;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/24e239b9d2500a30f347ea5728004cc6765431f9";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/7ef7df9f48b0cb0f177c187c2b1956cc86a3872a";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/74060202e67cf7744de5baf0a29cc87a68a544cf";
+                        width = 64;
+                    }
+                );
+                name = Anywhere;
+                type = album;
+                uri = "spotify:album:3uRfl5ZsFJpuYj2z1YjXKC";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/39AZSw4A8hCFWunEg2k89Z";
+                    id = 39AZSw4A8hCFWunEg2k89Z;
+                    name = "Will Heard";
+                    type = artist;
+                    uri = "spotify:artist:39AZSw4A8hCFWunEg2k89Z";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 177595;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11607313;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/0fMMtO0pOYIGWfbJmrqfVJ";
+            };
+            href = "https://api.spotify.com/v1/tracks/0fMMtO0pOYIGWfbJmrqfVJ";
+            id = 0fMMtO0pOYIGWfbJmrqfVJ;
+            name = Anywhere;
+            popularity = 69;
+            "preview_url" = "https://p.scdn.co/mp3-preview/44575b2b92804c46745481e9e730c37b14880a24?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:0fMMtO0pOYIGWfbJmrqfVJ";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI";
+                };
+                href = "https://api.spotify.com/v1/albums/0GJ7jQJRIQNDjz54cPo2XI";
+                id = 0GJ7jQJRIQNDjz54cPo2XI;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/ff3d65d3d2e007e719a3f293da4b97749f7d6c57";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/8efccdc656ec48a67bf0b3a48bc0bf0b9cb6af91";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/9f51d8e0123a68d305337beafa9bc8e0bf6c6840";
+                        width = 64;
+                    }
+                );
+                name = "Money Sucks, Friends Rule";
+                type = album;
+                uri = "spotify:album:0GJ7jQJRIQNDjz54cPo2XI";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4";
+                    };
+                    href = "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4";
+                    id = 540vIaP2JwjQb9dm3aArA4;
+                    name = "DJ Snake";
+                    type = artist;
+                    uri = "spotify:artist:540vIaP2JwjQb9dm3aArA4";
+                }
+            );
+            "available_markets" =             (
+                AR,
+                AU,
+                BO,
+                BR,
+                CA,
+                CL,
+                CO,
+                CR,
+                DO,
+                EC,
+                GT,
+                HK,
+                HN,
+                ID,
+                JP,
+                MX,
+                MY,
+                NI,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PY,
+                SG,
+                SV,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 212773;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11403232;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4";
+            };
+            href = "https://api.spotify.com/v1/tracks/3oZoXyU0SkDldgS7AcN4y4";
+            id = 3oZoXyU0SkDldgS7AcN4y4;
+            name = "Get Low";
+            popularity = 66;
+            "preview_url" = "https://p.scdn.co/mp3-preview/70392bb468372764955b4c0e56976b26b9dfb917?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 2;
+            type = track;
+            uri = "spotify:track:3oZoXyU0SkDldgS7AcN4y4";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    },
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF";
+                        };
+                        href = "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF";
+                        id = 76M2Ekj8bG8W7X2nbx2CpF;
+                        name = NGHTMRE;
+                        type = artist;
+                        uri = "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF";
+                    }
+                );
+                "available_markets" =                 (
+                    AR,
+                    BO,
+                    BR,
+                    CA,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    DO,
+                    EC,
+                    GT,
+                    HK,
+                    HN,
+                    ID,
+                    MX,
+                    MY,
+                    NI,
+                    PA,
+                    PE,
+                    PH,
+                    PY,
+                    SG,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/7B4Pi4VqcLri1acgYdXDjY";
+                };
+                href = "https://api.spotify.com/v1/albums/7B4Pi4VqcLri1acgYdXDjY";
+                id = 7B4Pi4VqcLri1acgYdXDjY;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/841287e97bb354937f6e58c366ae930ee26ee050";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/041ec7b8bc63e49686f473df707f15621c541ec5";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/b4e065c90b85dab898b1c4a867ad30f977e71dc7";
+                        width = 64;
+                    }
+                );
+                name = "Need You";
+                type = album;
+                uri = "spotify:album:7B4Pi4VqcLri1acgYdXDjY";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF";
+                    };
+                    href = "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF";
+                    id = 76M2Ekj8bG8W7X2nbx2CpF;
+                    name = NGHTMRE;
+                    type = artist;
+                    uri = "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF";
+                }
+            );
+            "available_markets" =             (
+                AR,
+                BO,
+                BR,
+                CA,
+                CL,
+                CO,
+                CR,
+                CY,
+                DO,
+                EC,
+                GT,
+                HK,
+                HN,
+                ID,
+                MX,
+                MY,
+                NI,
+                PA,
+                PE,
+                PH,
+                PY,
+                SG,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 197442;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USZ4V1600072;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/20UdW4qyeOmKa9YaOcv9WX";
+            };
+            href = "https://api.spotify.com/v1/tracks/20UdW4qyeOmKa9YaOcv9WX";
+            id = 20UdW4qyeOmKa9YaOcv9WX;
+            name = "Need You";
+            popularity = 58;
+            "preview_url" = "https://p.scdn.co/mp3-preview/13c50f7a20f5e0aad7b653efb9a558d88ee4ab59?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:20UdW4qyeOmKa9YaOcv9WX";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et";
+                        };
+                        href = "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et";
+                        id = 6nS5roXSAGhTGr34W6n7Et;
+                        name = Disclosure;
+                        type = artist;
+                        uri = "spotify:artist:6nS5roXSAGhTGr34W6n7Et";
+                    }
+                );
+                "available_markets" =                 (
+                    CA,
+                    MX,
+                    US
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/7hLel5jMuyl0hFAjE8DB5V";
+                };
+                href = "https://api.spotify.com/v1/albums/7hLel5jMuyl0hFAjE8DB5V";
+                id = 7hLel5jMuyl0hFAjE8DB5V;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/e5e2755b15f72d0717e0745a70376eab7c7c90c1";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/bae4819268c9004d5b06d96f9676354b57f2454a";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/ad33336c2ded7271cb3e82da84ea1f53f9ab8877";
+                        width = 64;
+                    }
+                );
+                name = "Omen (Dillon Francis Remix)";
+                type = album;
+                uri = "spotify:album:7hLel5jMuyl0hFAjE8DB5V";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et";
+                    };
+                    href = "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et";
+                    id = 6nS5roXSAGhTGr34W6n7Et;
+                    name = Disclosure;
+                    type = artist;
+                    uri = "spotify:artist:6nS5roXSAGhTGr34W6n7Et";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI";
+                    };
+                    href = "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI";
+                    id = 2wY79sveU1sp5g7SokKOiI;
+                    name = "Sam Smith";
+                    type = artist;
+                    uri = "spotify:artist:2wY79sveU1sp5g7SokKOiI";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                }
+            );
+            "available_markets" =             (
+                CA,
+                MX,
+                US
+            );
+            "disc_number" = 1;
+            "duration_ms" = 242142;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = GBUM71507454;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/40sglh34jX7N1LlhqRF029";
+            };
+            href = "https://api.spotify.com/v1/tracks/40sglh34jX7N1LlhqRF029";
+            id = 40sglh34jX7N1LlhqRF029;
+            name = "Omen - Dillon Francis Remix";
+            popularity = 45;
+            "preview_url" = "<null>";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:40sglh34jX7N1LlhqRF029";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    },
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                        };
+                        href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                        id = 02kJSzxNuaWGqwubyUba0Z;
+                        name = "G-Eazy";
+                        type = artist;
+                        uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/6yA1IH5jErLaF7ZPVsbUDQ";
+                };
+                href = "https://api.spotify.com/v1/albums/6yA1IH5jErLaF7ZPVsbUDQ";
+                id = 6yA1IH5jErLaF7ZPVsbUDQ;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/91a5b8e86caac7399321fb7cb8df9cc4b48c9372";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/42bca6a37fef1b7f04f4c659ae2b9387f1e3d7f3";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/0b080c42ed6d203928556b09da97950e15a0bebf";
+                        width = 64;
+                    }
+                );
+                name = "Say Less (Remixes)";
+                type = album;
+                uri = "spotify:album:6yA1IH5jErLaF7ZPVsbUDQ";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                    id = 02kJSzxNuaWGqwubyUba0Z;
+                    name = "G-Eazy";
+                    type = artist;
+                    uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ";
+                    };
+                    href = "https://api.spotify.com/v1/artists/4dvZ0abeUaiHm7Fu9Gj0PQ";
+                    id = 4dvZ0abeUaiHm7Fu9Gj0PQ;
+                    name = Eptic;
+                    type = artist;
+                    uri = "spotify:artist:4dvZ0abeUaiHm7Fu9Gj0PQ";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 230400;
+            explicit = 1;
+            "external_ids" =             {
+                isrc = QMUY41700073;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/4CCUesOHmlajKGEqXPx5P1";
+            };
+            href = "https://api.spotify.com/v1/tracks/4CCUesOHmlajKGEqXPx5P1";
+            id = 4CCUesOHmlajKGEqXPx5P1;
+            name = "Say Less - Eptic Remix";
+            popularity = 36;
+            "preview_url" = "https://p.scdn.co/mp3-preview/af4dbb69354601dc43fc618aaba8b7226e9b0663?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 2;
+            type = track;
+            uri = "spotify:track:4CCUesOHmlajKGEqXPx5P1";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY";
+                        };
+                        href = "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY";
+                        id = 7CajNmpbOovFoOoasH2HaY;
+                        name = "Calvin Harris";
+                        type = artist;
+                        uri = "spotify:artist:7CajNmpbOovFoOoasH2HaY";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/4wHI7bZSdSQAbiVElWBlSO";
+                };
+                href = "https://api.spotify.com/v1/albums/4wHI7bZSdSQAbiVElWBlSO";
+                id = 4wHI7bZSdSQAbiVElWBlSO;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/a45b3c9f2bb6a7044928ecb5c014af8ca0400f63";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/7400583be9d6d38826560768217b060b5b9ccffd";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/caa22d3b2985ea2574297350e3979a71d7b01bba";
+                        width = 64;
+                    }
+                );
+                name = "This Is What You Came For (Remixes)";
+                type = album;
+                uri = "spotify:album:4wHI7bZSdSQAbiVElWBlSO";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY";
+                    };
+                    href = "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY";
+                    id = 7CajNmpbOovFoOoasH2HaY;
+                    name = "Calvin Harris";
+                    type = artist;
+                    uri = "spotify:artist:7CajNmpbOovFoOoasH2HaY";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H";
+                    id = 5pKCCKE2ajJHZ9KAiaK11H;
+                    name = Rihanna;
+                    type = artist;
+                    uri = "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 222853;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = GBARL1600835;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/2gDOz4v8D3gGOeowCOipZX";
+            };
+            href = "https://api.spotify.com/v1/tracks/2gDOz4v8D3gGOeowCOipZX";
+            id = 2gDOz4v8D3gGOeowCOipZX;
+            name = "This Is What You Came For - Dillon Francis Remix";
+            popularity = 55;
+            "preview_url" = "https://p.scdn.co/mp3-preview/6110ebf5d4fbdd00a8ab927775abb32ba6629c0b?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 2;
+            type = track;
+            uri = "spotify:track:2gDOz4v8D3gGOeowCOipZX";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    },
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                        };
+                        href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                        id = 02kJSzxNuaWGqwubyUba0Z;
+                        name = "G-Eazy";
+                        type = artist;
+                        uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/6yA1IH5jErLaF7ZPVsbUDQ";
+                };
+                href = "https://api.spotify.com/v1/albums/6yA1IH5jErLaF7ZPVsbUDQ";
+                id = 6yA1IH5jErLaF7ZPVsbUDQ;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/91a5b8e86caac7399321fb7cb8df9cc4b48c9372";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/42bca6a37fef1b7f04f4c659ae2b9387f1e3d7f3";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/0b080c42ed6d203928556b09da97950e15a0bebf";
+                        width = 64;
+                    }
+                );
+                name = "Say Less (Remixes)";
+                type = album;
+                uri = "spotify:album:6yA1IH5jErLaF7ZPVsbUDQ";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                    id = 02kJSzxNuaWGqwubyUba0Z;
+                    name = "G-Eazy";
+                    type = artist;
+                    uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx";
+                    };
+                    href = "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx";
+                    id = 4VNQWV2y1E97Eqo2D5UTjx;
+                    name = "Gorgon City";
+                    type = artist;
+                    uri = "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 356677;
+            explicit = 1;
+            "external_ids" =             {
+                isrc = QMUY41700072;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/5wFlGSR6o0ocXXrQWi8aZT";
+            };
+            href = "https://api.spotify.com/v1/tracks/5wFlGSR6o0ocXXrQWi8aZT";
+            id = 5wFlGSR6o0ocXXrQWi8aZT;
+            name = "Say Less - Gorgon City Remix";
+            popularity = 47;
+            "preview_url" = "https://p.scdn.co/mp3-preview/f404766957a36e61ca20a9fff68a6ce63f8bfe5e?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:5wFlGSR6o0ocXXrQWi8aZT";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed";
+                };
+                href = "https://api.spotify.com/v1/albums/5yscEifoZw3M3abIVCr8ed";
+                id = 5yscEifoZw3M3abIVCr8ed;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/e8a7307f697dbb64318f6b17dbd0f6889da46344";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/795ce52a64136e593cd962ca95ca188d770aab2c";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/083aa73d3ddc515ed4aac2745ec88856cfbd3d51";
+                        width = 64;
+                    }
+                );
+                name = "This Mixtape is Fire.";
+                type = album;
+                uri = "spotify:album:5yscEifoZw3M3abIVCr8ed";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX";
+                    id = 5he5w2lnU9x7JFhnwcekXX;
+                    name = Skrillex;
+                    type = artist;
+                    uri = "spotify:artist:5he5w2lnU9x7JFhnwcekXX";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 214066;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11505215;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/2cgZfcnb639TaZhd1AU8iz";
+            };
+            href = "https://api.spotify.com/v1/tracks/2cgZfcnb639TaZhd1AU8iz";
+            id = 2cgZfcnb639TaZhd1AU8iz;
+            name = "Bun Up the Dance";
+            popularity = 58;
+            "preview_url" = "https://p.scdn.co/mp3-preview/0c5f06a2daa84eb665d3530ef5b3a93078baa378?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 3;
+            type = track;
+            uri = "spotify:track:2cgZfcnb639TaZhd1AU8iz";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/7k4FCG2XoMK9SFT8dAnj5m";
+                };
+                href = "https://api.spotify.com/v1/albums/7k4FCG2XoMK9SFT8dAnj5m";
+                id = 7k4FCG2XoMK9SFT8dAnj5m;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/9b51256355b2b0a0c35609fbe5e2f705da092d48";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/91faec0f44cc32c4ca95d3f8b84b1feee562a9e8";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/d985f4a9661e42d371a71779762c5c57adaf7f35";
+                        width = 64;
+                    }
+                );
+                name = "Say Less (Gorgon City Remix Radio Edit)";
+                type = album;
+                uri = "spotify:album:7k4FCG2XoMK9SFT8dAnj5m";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z";
+                    id = 02kJSzxNuaWGqwubyUba0Z;
+                    name = "G-Eazy";
+                    type = artist;
+                    uri = "spotify:artist:02kJSzxNuaWGqwubyUba0Z";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx";
+                    };
+                    href = "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx";
+                    id = 4VNQWV2y1E97Eqo2D5UTjx;
+                    name = "Gorgon City";
+                    type = artist;
+                    uri = "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 218817;
+            explicit = 1;
+            "external_ids" =             {
+                isrc = QMUY41700079;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/5Q6woXZ1zBkIkyQtHEvFWa";
+            };
+            href = "https://api.spotify.com/v1/tracks/5Q6woXZ1zBkIkyQtHEvFWa";
+            id = 5Q6woXZ1zBkIkyQtHEvFWa;
+            name = "Say Less - Gorgon City Remix Radio Edit";
+            popularity = 12;
+            "preview_url" = "https://p.scdn.co/mp3-preview/207bea347752a8bc1eecde8a94e7dbc3c1ac06fc?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:5Q6woXZ1zBkIkyQtHEvFWa";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm";
+                        };
+                        href = "https://api.spotify.com/v1/artists/7yPPzu5UdAK7yagQqjEZQm";
+                        id = 7yPPzu5UdAK7yagQqjEZQm;
+                        name = "Party Favor";
+                        type = artist;
+                        uri = "spotify:artist:7yPPzu5UdAK7yagQqjEZQm";
+                    }
+                );
+                "available_markets" =                 (
+                    AU,
+                    CA,
+                    CY,
+                    HK,
+                    ID,
+                    JP,
+                    MY,
+                    NZ,
+                    PH,
+                    SG,
+                    TW,
+                    US
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/7bwjU6dC3G4sO6XRqeKgXZ";
+                };
+                href = "https://api.spotify.com/v1/albums/7bwjU6dC3G4sO6XRqeKgXZ";
+                id = 7bwjU6dC3G4sO6XRqeKgXZ;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/62e43d5c3e6f13869f0237470b38db0021c37b99";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/37648df4604867ffe1ee7cdc08f8435cf67ffe93";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/09d1e6813aa93150cbc819d73b338200f3b76164";
+                        width = 64;
+                    }
+                );
+                name = "Party & Destroy";
+                type = album;
+                uri = "spotify:album:7bwjU6dC3G4sO6XRqeKgXZ";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm";
+                    };
+                    href = "https://api.spotify.com/v1/artists/7yPPzu5UdAK7yagQqjEZQm";
+                    id = 7yPPzu5UdAK7yagQqjEZQm;
+                    name = "Party Favor";
+                    type = artist;
+                    uri = "spotify:artist:7yPPzu5UdAK7yagQqjEZQm";
+                }
+            );
+            "available_markets" =             (
+                AU,
+                CA,
+                CY,
+                HK,
+                ID,
+                JP,
+                MY,
+                NZ,
+                PH,
+                SG,
+                TW,
+                US
+            );
+            "disc_number" = 1;
+            "duration_ms" = 202122;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USZ4V1600160;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/7pu71P9Vja2XEym0RTpZrX";
+            };
+            href = "https://api.spotify.com/v1/tracks/7pu71P9Vja2XEym0RTpZrX";
+            id = 7pu71P9Vja2XEym0RTpZrX;
+            name = "Shut It Down";
+            popularity = 52;
+            "preview_url" = "https://p.scdn.co/mp3-preview/da6850ad3ed03a85680e7886b82daedebeb659bb?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 5;
+            type = track;
+            uri = "spotify:track:7pu71P9Vja2XEym0RTpZrX";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/6VjOeat6CuSwwaCRSSVdql";
+                };
+                href = "https://api.spotify.com/v1/albums/6VjOeat6CuSwwaCRSSVdql";
+                id = 6VjOeat6CuSwwaCRSSVdql;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/3dbb3743edfb536f0e93db71e031244a5998cd6f";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/b497918758f612312d31081f8f531a9e859c53df";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/c26c3ba56e39ffa38b213ea8d29ec8d1fe2fc3d0";
+                        width = 64;
+                    }
+                );
+                name = "Anywhere (Remixes)";
+                type = album;
+                uri = "spotify:album:6VjOeat6CuSwwaCRSSVdql";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z";
+                    };
+                    href = "https://api.spotify.com/v1/artists/39AZSw4A8hCFWunEg2k89Z";
+                    id = 39AZSw4A8hCFWunEg2k89Z;
+                    name = "Will Heard";
+                    type = artist;
+                    uri = "spotify:artist:39AZSw4A8hCFWunEg2k89Z";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt";
+                    };
+                    href = "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt";
+                    id = 3TaUSUXn41GixL7zbvrIDt;
+                    name = "A-Trak";
+                    type = artist;
+                    uri = "spotify:artist:3TaUSUXn41GixL7zbvrIDt";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 195360;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11608791;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/6PZxVoICRIWx7SmyvwQkRG";
+            };
+            href = "https://api.spotify.com/v1/tracks/6PZxVoICRIWx7SmyvwQkRG";
+            id = 6PZxVoICRIWx7SmyvwQkRG;
+            name = "Anywhere - A-Trak Remix";
+            popularity = 59;
+            "preview_url" = "https://p.scdn.co/mp3-preview/de35e29a37679b8a87d303f6dfa7405e33e40ae3?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 2;
+            type = track;
+            uri = "spotify:track:6PZxVoICRIWx7SmyvwQkRG";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/18oMANJmylbD6CN5JQJ5Vo";
+                };
+                href = "https://api.spotify.com/v1/albums/18oMANJmylbD6CN5JQJ5Vo";
+                id = 18oMANJmylbD6CN5JQJ5Vo;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/49f5a4a30696437f3b222a67f2d194a8ad0dac3e";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/0b9edb6818e20647e4817215b11b2713ffbef087";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/ef80f8935d8b07539572fe899cd52756acba1f45";
+                        width = 64;
+                    }
+                );
+                name = Candy;
+                type = album;
+                uri = "spotify:album:18oMANJmylbD6CN5JQJ5Vo";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY";
+                    };
+                    href = "https://api.spotify.com/v1/artists/4liIX1dXOofAewkaoKrNHY";
+                    id = 4liIX1dXOofAewkaoKrNHY;
+                    name = "Snappy Jit";
+                    type = artist;
+                    uri = "spotify:artist:4liIX1dXOofAewkaoKrNHY";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 182181;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11604984;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/0WgwZ3007s5PFIlsDkOjHC";
+            };
+            href = "https://api.spotify.com/v1/tracks/0WgwZ3007s5PFIlsDkOjHC";
+            id = 0WgwZ3007s5PFIlsDkOjHC;
+            name = Candy;
+            popularity = 55;
+            "preview_url" = "https://p.scdn.co/mp3-preview/9ad80f8188cce9996675aa57ab014c0f2245fa14?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:0WgwZ3007s5PFIlsDkOjHC";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu";
+                        };
+                        href = "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu";
+                        id = 4sTQVOfp9vEMCemLw50sbu;
+                        name = Galantis;
+                        type = artist;
+                        uri = "spotify:artist:4sTQVOfp9vEMCemLw50sbu";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IS,
+                    IT,
+                    JP,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/6NArHFDZEut5akSlfaIFGe";
+                };
+                href = "https://api.spotify.com/v1/albums/6NArHFDZEut5akSlfaIFGe";
+                id = 6NArHFDZEut5akSlfaIFGe;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/2bdcaff56ed87a714a2e0bf79ac3d06769f964d1";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/74b909b144811b179fcdf483b1f85686089de5b2";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/13a5842c401dedfccc8f3c5eb798c3fe3f99d965";
+                        width = 64;
+                    }
+                );
+                name = "Runaway (U & I) [Dillon Francis Remix]";
+                type = album;
+                uri = "spotify:album:6NArHFDZEut5akSlfaIFGe";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu";
+                    };
+                    href = "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu";
+                    id = 4sTQVOfp9vEMCemLw50sbu;
+                    name = Galantis;
+                    type = artist;
+                    uri = "spotify:artist:4sTQVOfp9vEMCemLw50sbu";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IS,
+                IT,
+                JP,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 213000;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USAT21405298;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/5FHGdR2grg8WZIKr7CExs3";
+            };
+            href = "https://api.spotify.com/v1/tracks/5FHGdR2grg8WZIKr7CExs3";
+            id = 5FHGdR2grg8WZIKr7CExs3;
+            name = "Runaway (U & I) - Dillon Francis Remix";
+            popularity = 45;
+            "preview_url" = "https://p.scdn.co/mp3-preview/8922b1e346f41bb49ba55baa60814edae94dfc91?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:5FHGdR2grg8WZIKr7CExs3";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq";
+                        };
+                        href = "https://api.spotify.com/v1/artists/0ycHhPwPvoaO4VGzmMnXGq";
+                        id = 0ycHhPwPvoaO4VGzmMnXGq;
+                        name = Zomboy;
+                        type = artist;
+                        uri = "spotify:artist:0ycHhPwPvoaO4VGzmMnXGq";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/1cGVyhegbGTGQPxwONY8hj";
+                };
+                href = "https://api.spotify.com/v1/albums/1cGVyhegbGTGQPxwONY8hj";
+                id = 1cGVyhegbGTGQPxwONY8hj;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/1cee0e8565c332905f11ccb8c78cf4e5cecad522";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/a544ec5a2a86ae71ebda6e26b5fac9b80326a60c";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/99af1068f76759e4fb6191b44b16e9db3d09767f";
+                        width = 64;
+                    }
+                );
+                name = Resurrected;
+                type = album;
+                uri = "spotify:album:1cGVyhegbGTGQPxwONY8hj";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq";
+                    };
+                    href = "https://api.spotify.com/v1/artists/0ycHhPwPvoaO4VGzmMnXGq";
+                    id = 0ycHhPwPvoaO4VGzmMnXGq;
+                    name = Zomboy;
+                    type = artist;
+                    uri = "spotify:artist:0ycHhPwPvoaO4VGzmMnXGq";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 193793;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = GB7YL1507002;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/3We4iqx2RvTFNJ2g3ENrkX";
+            };
+            href = "https://api.spotify.com/v1/tracks/3We4iqx2RvTFNJ2g3ENrkX";
+            id = 3We4iqx2RvTFNJ2g3ENrkX;
+            name = "Nuclear - Dillon Francis Remix";
+            popularity = 47;
+            "preview_url" = "https://p.scdn.co/mp3-preview/ba273d128709aa28ff0ce2420bcf8042a5cb04d8?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 2;
+            type = track;
+            uri = "spotify:track:3We4iqx2RvTFNJ2g3ENrkX";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/1lG3WuADstOjo5K1BRiZNK";
+                };
+                href = "https://api.spotify.com/v1/albums/1lG3WuADstOjo5K1BRiZNK";
+                id = 1lG3WuADstOjo5K1BRiZNK;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/9634728bf66cc6382500b2923559ab9b9fe1d4c4";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/0b7a5f421ed36089162a3ae1e3a61fea8a636a61";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/a6a35111aa783c6f763f395eef668b2e34107d1e";
+                        width = 64;
+                    }
+                );
+                name = "Bootleg Fireworks (Burning Up)";
+                type = album;
+                uri = "spotify:album:1lG3WuADstOjo5K1BRiZNK";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 291573;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = GB5HL1200032;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/2SHqrEpgmnKnVBOHJtIA9B";
+            };
+            href = "https://api.spotify.com/v1/tracks/2SHqrEpgmnKnVBOHJtIA9B";
+            id = 2SHqrEpgmnKnVBOHJtIA9B;
+            name = "Bootleg Fireworks (Burning Up) - Original Mix";
+            popularity = 52;
+            "preview_url" = "https://p.scdn.co/mp3-preview/07b473ea2faa333b39c4c3c70b4cd156605abbd0?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:2SHqrEpgmnKnVBOHJtIA9B";
+        },
+                {
+            album =             {
+                "album_type" = album;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AD,
+                    AR,
+                    AT,
+                    AU,
+                    BE,
+                    BG,
+                    BO,
+                    BR,
+                    CA,
+                    CH,
+                    CL,
+                    CO,
+                    CR,
+                    CY,
+                    CZ,
+                    DE,
+                    DK,
+                    DO,
+                    EC,
+                    EE,
+                    ES,
+                    FI,
+                    FR,
+                    GB,
+                    GR,
+                    GT,
+                    HK,
+                    HN,
+                    HU,
+                    ID,
+                    IE,
+                    IS,
+                    IT,
+                    JP,
+                    LI,
+                    LT,
+                    LU,
+                    LV,
+                    MC,
+                    MT,
+                    MX,
+                    MY,
+                    NI,
+                    NL,
+                    NO,
+                    NZ,
+                    PA,
+                    PE,
+                    PH,
+                    PL,
+                    PT,
+                    PY,
+                    SE,
+                    SG,
+                    SK,
+                    SV,
+                    TR,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI";
+                };
+                href = "https://api.spotify.com/v1/albums/0GJ7jQJRIQNDjz54cPo2XI";
+                id = 0GJ7jQJRIQNDjz54cPo2XI;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/ff3d65d3d2e007e719a3f293da4b97749f7d6c57";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/8efccdc656ec48a67bf0b3a48bc0bf0b9cb6af91";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/9f51d8e0123a68d305337beafa9bc8e0bf6c6840";
+                        width = 64;
+                    }
+                );
+                name = "Money Sucks, Friends Rule";
+                type = album;
+                uri = "spotify:album:0GJ7jQJRIQNDjz54cPo2XI";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ";
+                    };
+                    href = "https://api.spotify.com/v1/artists/6eYFryfcEu3QSq59D62wZQ";
+                    id = 6eYFryfcEu3QSq59D62wZQ;
+                    name = "Brendon Urie";
+                    type = artist;
+                    uri = "spotify:artist:6eYFryfcEu3QSq59D62wZQ";
+                }
+            );
+            "available_markets" =             (
+                AD,
+                AR,
+                AT,
+                AU,
+                BE,
+                BG,
+                BO,
+                BR,
+                CA,
+                CH,
+                CL,
+                CO,
+                CR,
+                CY,
+                CZ,
+                DE,
+                DK,
+                DO,
+                EC,
+                EE,
+                ES,
+                FI,
+                FR,
+                GB,
+                GR,
+                GT,
+                HK,
+                HN,
+                HU,
+                ID,
+                IE,
+                IS,
+                IT,
+                JP,
+                LI,
+                LT,
+                LU,
+                LV,
+                MC,
+                MT,
+                MX,
+                MY,
+                NI,
+                NL,
+                NO,
+                NZ,
+                PA,
+                PE,
+                PH,
+                PL,
+                PT,
+                PY,
+                SE,
+                SG,
+                SK,
+                SV,
+                TR,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 199186;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USSM11405582;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/21AHQlJa5Q0s1Jx2PeulUD";
+            };
+            href = "https://api.spotify.com/v1/tracks/21AHQlJa5Q0s1Jx2PeulUD";
+            id = 21AHQlJa5Q0s1Jx2PeulUD;
+            name = "Love in the Middle of a Firefight";
+            popularity = 48;
+            "preview_url" = "https://p.scdn.co/mp3-preview/2fde1ba6d70fc47fd1ccb3053b947674ab325df3?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 6;
+            type = track;
+            uri = "spotify:track:21AHQlJa5Q0s1Jx2PeulUD";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw";
+                        };
+                        href = "https://api.spotify.com/v1/artists/1bJJlRHoc1UVeqzxcrPLIw";
+                        id = 1bJJlRHoc1UVeqzxcrPLIw;
+                        name = Phantoms;
+                        type = artist;
+                        uri = "spotify:artist:1bJJlRHoc1UVeqzxcrPLIw";
+                    }
+                );
+                "available_markets" =                 (
+                    CA,
+                    MX,
+                    US
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/1VBNibAYaE7CudjIzHm0Tp";
+                };
+                href = "https://api.spotify.com/v1/albums/1VBNibAYaE7CudjIzHm0Tp";
+                id = 1VBNibAYaE7CudjIzHm0Tp;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/6143e7d44e1d03338d29ffd477f3765adfd1aafb";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/b0fd70d790540a1c4fb8779e6efe31fbfa9a4a6e";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/1111039ddba65b71d5bf0811ac9b800ad974c248";
+                        width = 64;
+                    }
+                );
+                name = "Call My Name (Dillon Francis Remix)";
+                type = album;
+                uri = "spotify:album:1VBNibAYaE7CudjIzHm0Tp";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw";
+                    };
+                    href = "https://api.spotify.com/v1/artists/1bJJlRHoc1UVeqzxcrPLIw";
+                    id = 1bJJlRHoc1UVeqzxcrPLIw;
+                    name = Phantoms;
+                    type = artist;
+                    uri = "spotify:artist:1bJJlRHoc1UVeqzxcrPLIw";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/1QXyMGVMzdhyM5efhg3m3j";
+                    };
+                    href = "https://api.spotify.com/v1/artists/1QXyMGVMzdhyM5efhg3m3j";
+                    id = 1QXyMGVMzdhyM5efhg3m3j;
+                    name = "Skylar Astin";
+                    type = artist;
+                    uri = "spotify:artist:1QXyMGVMzdhyM5efhg3m3j";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                }
+            );
+            "available_markets" =             (
+                CA,
+                MX,
+                US
+            );
+            "disc_number" = 1;
+            "duration_ms" = 206626;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USUM71605882;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/6GT6YmOZXbO0Jr3CvjPHvL";
+            };
+            href = "https://api.spotify.com/v1/tracks/6GT6YmOZXbO0Jr3CvjPHvL";
+            id = 6GT6YmOZXbO0Jr3CvjPHvL;
+            name = "Call My Name - Dillon Francis Remix";
+            popularity = 35;
+            "preview_url" = "<null>";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:6GT6YmOZXbO0Jr3CvjPHvL";
+        },
+                {
+            album =             {
+                "album_type" = single;
+                artists =                 (
+                                        {
+                        "external_urls" =                         {
+                            spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                        };
+                        href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                        id = 5R3Hr2cnCCjt220Jmt2xLf;
+                        name = "Dillon Francis";
+                        type = artist;
+                        uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                    }
+                );
+                "available_markets" =                 (
+                    AR,
+                    BO,
+                    BR,
+                    CA,
+                    CL,
+                    CO,
+                    CR,
+                    DO,
+                    EC,
+                    GT,
+                    HK,
+                    HN,
+                    ID,
+                    JP,
+                    MX,
+                    MY,
+                    NI,
+                    PA,
+                    PE,
+                    PH,
+                    PY,
+                    SG,
+                    SV,
+                    TW,
+                    US,
+                    UY
+                );
+                "external_urls" =                 {
+                    spotify = "https://open.spotify.com/album/1sgs1ZYpOmfqjMRfuZhtM3";
+                };
+                href = "https://api.spotify.com/v1/albums/1sgs1ZYpOmfqjMRfuZhtM3";
+                id = 1sgs1ZYpOmfqjMRfuZhtM3;
+                images =                 (
+                                        {
+                        height = 640;
+                        url = "https://i.scdn.co/image/c5b27c198390512bb58ad01dbf25a89e4d8ceb06";
+                        width = 640;
+                    },
+                                        {
+                        height = 300;
+                        url = "https://i.scdn.co/image/e973a52ab5ad885ce5506ea722fa95af48b81de2";
+                        width = 300;
+                    },
+                                        {
+                        height = 64;
+                        url = "https://i.scdn.co/image/cbe278fb6e26859223a8f0b2f21af1b62940819d";
+                        width = 64;
+                    }
+                );
+                name = "Without You";
+                type = album;
+                uri = "spotify:album:1sgs1ZYpOmfqjMRfuZhtM3";
+            };
+            artists =             (
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf";
+                    };
+                    href = "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf";
+                    id = 5R3Hr2cnCCjt220Jmt2xLf;
+                    name = "Dillon Francis";
+                    type = artist;
+                    uri = "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf";
+                },
+                                {
+                    "external_urls" =                     {
+                        spotify = "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN";
+                    };
+                    href = "https://api.spotify.com/v1/artists/0g3NiCRhEv7M4SEDMrpItN";
+                    id = 0g3NiCRhEv7M4SEDMrpItN;
+                    name = "Totally Enormous Extinct Dinosaurs";
+                    type = artist;
+                    uri = "spotify:artist:0g3NiCRhEv7M4SEDMrpItN";
+                }
+            );
+            "available_markets" =             (
+                AR,
+                BO,
+                BR,
+                CA,
+                CL,
+                CO,
+                CR,
+                DO,
+                EC,
+                GT,
+                HK,
+                HN,
+                ID,
+                JP,
+                MX,
+                MY,
+                NI,
+                PA,
+                PE,
+                PH,
+                PY,
+                SG,
+                SV,
+                TW,
+                US,
+                UY
+            );
+            "disc_number" = 1;
+            "duration_ms" = 246000;
+            explicit = 0;
+            "external_ids" =             {
+                isrc = USZ4V1300074;
+            };
+            "external_urls" =             {
+                spotify = "https://open.spotify.com/track/21QdVw8LviPfxOlTXvIPaA";
+            };
+            href = "https://api.spotify.com/v1/tracks/21QdVw8LviPfxOlTXvIPaA";
+            id = 21QdVw8LviPfxOlTXvIPaA;
+            name = "Without You";
+            popularity = 48;
+            "preview_url" = "https://p.scdn.co/mp3-preview/cc055342a76178ba255c2dd47b8a8571837b8d53?cid=2cd4585c7abf46a1b570a60af54e4620";
+            "track_number" = 1;
+            type = track;
+            uri = "spotify:track:21QdVw8LviPfxOlTXvIPaA";
+        }
+    );
+    limit = 20;
+    next = "https://api.spotify.com/v1/search?query=Dillon+francis&type=track&market=US&offset=20&limit=20";
+    offset = 0;
+    previous = "<null>";
+    total = 235;
+}]

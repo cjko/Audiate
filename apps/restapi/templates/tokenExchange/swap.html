@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Swap Token</title>
+</head>
+<body>
+Swap Token:
+<form method="post" action="swap">
+	{% csrf_token %}
+	<input type="text" name="token" placeholder="Spotify auth token..">
+	<input type="submit" name="submit">
+</form>
+</body>
+</html>
